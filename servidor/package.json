@@ -1,0 +1,19 @@
+{
+  "name": "sucree",
+  "version": "1.0.0",
+  "description": "Sucree",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "mercadopago": "^1.5.7",
+    "nodemon": "^2.0.7"
+  },
+  "author": "Agustin Villarreal",
+  "license": "ISC"
+}
